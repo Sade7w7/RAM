@@ -1,0 +1,39 @@
+
+#main{
+    width: 800px;
+    margin: auto;
+    margin-top: 0%;
+    background-color: rgb(149, 16, 156);
+   
+}
+.titulo{
+    width: 50%;
+    font-size: 30px;
+    text-align: center;
+
+    margin-top: 5%;
+    
+}
+.botones{
+width: 100%;
+height: 200px;
+background-color: blue;
+display: inline-flex;
+
+}
+.botton{
+    width: 50%;
+    height: 20%;
+    margin: auto;
+    padding: auto ;
+    display: flex;
+   
+}
+#contador{
+    background-color: aqua;
+    margin: auto;
+    height: 50px;
+    
+    text-align: center;
+    border-radius: 9%;
+}
