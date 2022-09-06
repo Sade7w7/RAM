@@ -6,7 +6,7 @@ function iniciar (){
     aumentara.addEventListener.apply("click", aumentar(cont));
     disminuira.addEventListener.apply("click", disminuir(cont));
     
-   
+   /**prueba para probral la rama realse */
 
 }
 
