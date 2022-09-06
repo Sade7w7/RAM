@@ -7,7 +7,6 @@ function iniciar (){
     disminuira.addEventListener.apply("click", disminuir(cont));
     
    /**prueba para probral la rama realse */
-   /**agregamos cambios para ver la diferencia */
 
 }
 
